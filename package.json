@@ -1,0 +1,57 @@
+{
+    "name": "arcobow",
+    "displayName": "arcobow",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Arcobow",
+        "Arcobow Dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arcobow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-color-theme.json"
+            },
+            {
+                "label": "Arcobow Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-dark-color-theme.json"
+            },
+            {
+                "label": "Arcobow Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-Blue-color-theme.json"
+            },
+            {
+                "label": "Arcobow Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-Green-color-theme.json"
+            },
+            {
+                "label": "Arcobow Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-Orange-color-theme.json"
+            }
+        ]
+    },
+    "icon": "",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "git@github.com:yesomac/Arcobow.git",
+        "type": "git"
+    },
+    "publisher": "YesCode",
+    "license": "MIT"
+}
