@@ -2,7 +2,7 @@
     "name": "arcobow",
     "displayName": "arcobow",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.71.0"
     },
@@ -37,19 +37,19 @@
                 "path": "./themes/Arcobow-Blue-Fog-color-theme.json"
             },
             {
+                "label": "Arcobow Blue Medium",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-Blue-Medium-color-theme.json"
+            },
+            {
                 "label": "Arcobow Blue Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Arcobow-Blue-Dark-color-theme.json"
             },
             {
-                "label": "Arcobow Green",
+                "label": "Arcobow Blue Spacial",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Arcobow-Green-color-theme.json"
-            },
-            {
-                "label": "Arcobow Orange",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Arcobow-Orange-color-theme.json"
+                "path": "./themes/Arcobow-Blue-Spacial-color-theme.json"
             }
         ]
     },
