@@ -13,7 +13,7 @@
 ![This is a image](https://github.com/yesomac/Arcobow/blob/main/img/arco-bluespecial.png?raw=true)
 
 ---
-* ArcoBow - ArcoBow M - ArcoBow Dark - ArcoBow Blue Spacial - ArcoBow Blue - ArcoBow Blue Fog ...
+* ArcoBow - ArcoBow M - ArcoBow Dark - ArcoBow Blue Spacial - ArcoBow Blue - ArcoBow Blue Fog
 ---
 ***Fonts:*** 
   * Microsoft Cascadia Code

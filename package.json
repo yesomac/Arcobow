@@ -12,7 +12,9 @@
     "keywords": [
         "Themes",
         "Arcobow",
-        "Arcobow Dark"
+        "Arcobow Medium",
+        "Arcobow Dark",
+        "Arcobow Blue Spacial"
     ],
     "contributes": {
         "themes": [
@@ -22,14 +24,14 @@
                 "path": "./themes/Arcobow-color-theme.json"
             },
             {
-                "label": "Arcobow Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Arcobow-dark-color-theme.json"
-            },
-            {
                 "label": "Arcobow Medium",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Arcobow-Medium-color-theme.json"
+            },
+            {
+                "label": "Arcobow Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-dark-color-theme.json"
             },
             {
                 "label": "Arcobow Blue",
@@ -58,6 +60,7 @@
             }
         ]
     },
+    "icon": "img/dark.jpg",
     "author": {
         "name": "Yes Dev",
         "email": "yesdev19@gmail.com"
