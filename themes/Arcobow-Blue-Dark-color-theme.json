@@ -71,7 +71,7 @@
 		//selects
     "editor.selectionBackground": "#2445776b",
     "editor.inactiveSelectionBackground": "#16335e6b",
-    "editor.lineHighlightBackground": "#041424",
+    "editor.lineHighlightBackground": "#030d18b7",
 		"editor.lineHighlightBorder": "#041424",
     "editorIndentGuide.activeBackground": "#62adf8",
 

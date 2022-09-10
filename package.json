@@ -27,6 +27,11 @@
                 "path": "./themes/Arcobow-dark-color-theme.json"
             },
             {
+                "label": "Arcobow Medium",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcobow-Medium-color-theme.json"
+            },
+            {
                 "label": "Arcobow Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Arcobow-Blue-color-theme.json"

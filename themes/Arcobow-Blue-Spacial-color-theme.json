@@ -36,8 +36,8 @@
 		"statusBar.debuggingForeground": "#fff",
 		"statusBar.foreground": "#cdd8e4",
     "statusBarItem.hoverBackground": "#172038",
-    "statusBarItem.remoteBackground": "#41063e",
-    "statusBarItem.remoteForeground": "#fbadf7",
+    "statusBarItem.remoteBackground": "#221f2e",
+    "statusBarItem.remoteForeground": "#8d8a9b",
 
 		//tab
     "tab.activeBackground": "#0d131b",
@@ -46,12 +46,12 @@
 		"tab.hoverBorder": "#fbadf7",
     "tab.activeBorder": "#0d131b",
     "tab.activeForeground": "#fff0fe",
-    "tab.activeBorderTop": "#30496e9f", //55447f-0e5194
+    "tab.activeBorderTop": "#2c283b", //55447f-0e5194
     "tab.border": "#0d131b",
 		"editorGroupHeader.tabsBackground": "#0d131b",
 
 		"tab.hoverForeground": "#fbadf7",
-    "editorGroupHeader.tabsBorder": "#30496e9f",
+    "editorGroupHeader.tabsBorder": "#221f2e",
     "tab.unfocusedActiveBorderTop": "#a2b7e4",
     "tab.inactiveForeground": "#c2bcc2",
     "tab.unfocusedActiveForeground": "#f3f5f8",
@@ -227,9 +227,9 @@
     "terminalCursor.foreground": "#fbadf7",
 
 		//scroll
-    "scrollbarSlider.background": "#6b236685",
-    "scrollbarSlider.activeBackground": "#6b2a68",
-    "scrollbarSlider.hoverBackground": "#fbadf7a2",
+    "scrollbarSlider.background": "#221f2e",
+    "scrollbarSlider.activeBackground": "#221f2e",
+    "scrollbarSlider.hoverBackground": "#fbadf783",
 		
 		//minimap
     "minimapSlider.background": "#0000001a",
@@ -244,8 +244,8 @@
     "editorBracketHighlight.foreground4": "#eefcbb",
     "editorBracketHighlight.foreground5": "#c6f7f1",
     "editorBracketHighlight.foreground6": "#d9c1ff",
-    "editorBracketMatch.background": "#52184fa2",
-		"editorBracketMatch.border": "#52184fa2",
+    "editorBracketMatch.background": "#221f2e",
+		"editorBracketMatch.border": "#221f2e",
     "editorError.border": "#b80000",
     "editorError.foreground": "#ff0000",
 
